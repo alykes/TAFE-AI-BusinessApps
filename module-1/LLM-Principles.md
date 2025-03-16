@@ -1,5 +1,12 @@
 # AI principles behind LLMs
 
+- [AI principles behind LLMs](#ai-principles-behind-llms)
+  - [LLM Principles](#llm-principles)
+  - [Neural Networks](#neural-networks)
+    - [Self-supervised learning](#self-supervised-learning)
+    - [Reinforcement Learning from Human Feedback (RLHF)](#reinforcement-learning-from-human-feedback-rlhf)
+  - [Emergent abilities](#emergent-abilities)
+
 Large language models are based on machine learning and deep learning techniques. However, you don't need to be a computer science technologist to understand the principles behind these models.
 
 ## LLM Principles
