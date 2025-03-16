@@ -20,3 +20,7 @@ You will gain guidance and applicable strategies to use Generative AI. On comple
 - Identify the use of Generative Adversarial Networks (GANs) in image creation and discuss its use in business.
 - Apply GAN tools in unleashing your creativity to achieve a business goal.
 - Evaluate the considerations of using Generative AI in business.
+
+## Outline
+
+[module-1](\fundamentals.md)
