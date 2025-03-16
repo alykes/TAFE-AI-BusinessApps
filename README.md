@@ -23,4 +23,4 @@ You will gain guidance and applicable strategies to use Generative AI. On comple
 
 ## Outline
 
-[module-1](\fundamentals.md)
+[module-1](./module-1/fundamentals.md)
