@@ -68,4 +68,4 @@ Generative AI can learn from various sources and generate new content that refle
 
 **ChatGPT** (Chat Generative Pre-trained Transformer) foundation is **LLM** (Large Language Model). **LLM** is a computer algorithm that processes natural language inputs and predicts the next word based on what it has already seen.
 
-Next Chapter: [Introduction to Large Language Models (LLMs)](./module-1/LLM-Intro.md)
+Next Chapter: [Introduction to Large Language Models (LLMs)](LLM-Intro.md)

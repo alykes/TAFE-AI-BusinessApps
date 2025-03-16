@@ -145,4 +145,4 @@ To simulate human-like conversations and generate text.
 
 Large language models are based on machine learning and deep learning techniques. However, you don't need to be a computer science technologist to understand the principles behind these models.
 
-Next Chapter: [AI principles behind LLMs](./module-1/LLM-Principles.md)
+Next Chapter: [AI principles behind LLMs](LLM-Principles.md)

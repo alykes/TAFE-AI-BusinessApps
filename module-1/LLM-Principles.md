@@ -42,4 +42,4 @@ The research paper discusses how these emergent abilities challenge our understa
 
 > The concept of "emergent abilities" in LLMs highlights large language models' intriguing and somewhat unpredictable nature as they evolve and scale. These unexpected skills open up new possibilities for what these models can achieve and contribute to ongoing research in artificial intelligence.
 
-Next Chapter: [History of ChatGPT and OpenAI](./module-1/ChatGPT-History.md)
+Next Chapter: [History of ChatGPT and OpenAI](ChatGPT-History.md)
