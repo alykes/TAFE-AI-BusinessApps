@@ -1,5 +1,24 @@
 # Fundamental Concepts of Generative AI
 
+- [Fundamental Concepts of Generative AI](#fundamental-concepts-of-generative-ai)
+  - [Module outcomes](#module-outcomes)
+  - [Introduction](#introduction)
+  - [What is Generative AI?](#what-is-generative-ai)
+  - [Types of Generative AI](#types-of-generative-ai)
+  - [Large Language Models (LLM)](#large-language-models-llm)
+    - [Benefits of using different models](#benefits-of-using-different-models)
+    - [Transformer Model](#transformer-model)
+    - [Historical Comparisons](#historical-comparisons)
+    - [LLM Development vs Traditional Development](#llm-development-vs-traditional-development)
+  - [What is Question Answering in Natural Language Processing?](#what-is-question-answering-in-natural-language-processing)
+  - [Prompts and Prompt Engineering](#prompts-and-prompt-engineering)
+  - [3 kinds of Language Modules](#3-kinds-of-language-modules)
+  - [Chain of Thought Reasoning](#chain-of-thought-reasoning)
+  - [LLM Tuning](#llm-tuning)
+    - [LLM Fine Tuning](#llm-fine-tuning)
+    - [Parameter Efficient Tuning Methods (PETM)](#parameter-efficient-tuning-methods-petm)
+  - [AI Principles behind LLMs](#ai-principles-behind-llms)
+
 This course will cover the fundamentals of Generative AI and its application to various routine business functions.
 
 ## Module outcomes
@@ -102,7 +121,7 @@ Google video on an [Introduction to Large Language Models](https://www.youtube.c
 - Pre-trained and fine-tuned
   - **pre-train** a model with a general purpose and a large dataset and then; **fine-tune** for specific aims with a much smaller dataset
 
-### Benefits of using different models:
+### Benefits of using different models
 
 - A single model can be used for different tasks (PB data and Billions of parameters)
 - The fine-tune process requires minimal field training data when they are tailored to solve a specific problem
@@ -140,7 +159,7 @@ Traditional ML Development
 - Yes compute and hardware
 - Think about minimizing a loss function
 
-## What is Question Answering in Natural Langauge Processing?
+## What is Question Answering in Natural Language Processing?
 
 **Question Answering** (QA) is a subfield of Natural Language Processing that deals with the task of automatically answering questions posed in natural language.  
 Question Answering models are able to retrieve the answer to a question from a given text. Useful for searching for an answer in a document. Depending on the model used, the answer can be directly extracted from text or generated from scratch.
